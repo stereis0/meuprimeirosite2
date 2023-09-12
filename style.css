@@ -2,7 +2,10 @@ body{background-color: antiquewhite;}
 
 
 
+
 h1{color: white;
-
-
+font-size: 50px;
+text-align: center;
+text-transform: uppercase;
+    
 }
