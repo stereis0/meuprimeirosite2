@@ -9,3 +9,7 @@ text-align: center;
 text-transform: uppercase;
     
 }
+
+p {
+    color: rgb(41, 45, 73);
+}
