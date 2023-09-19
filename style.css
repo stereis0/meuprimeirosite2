@@ -10,6 +10,8 @@ text-transform: uppercase;
     
 }
 
-p {
+.textos {
     color: rgb(41, 45, 73);
+    font-size: 30px;
+    text-align: center;
 }
